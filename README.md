@@ -4,11 +4,11 @@ this React project is a single web page for sign up form, it was created to prac
 
 To run this project locally on your machine, make sure you have the required dependencies installed and then in the terminal, use the command:
 
-''' bash
+'''bash
 npm run dev
-'''
-but before running the project, make sure you have vite installed, using this command:
 
-''' bash
+but before running the project, make sure you have vite and all dependencies required are installed, using this commands:
+
+'''bash
 npm install vite --save-dev
-'''
+npm install
